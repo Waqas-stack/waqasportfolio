@@ -34,22 +34,24 @@ class StaticUtils {
     "https://img.icons8.com/android/480/ffffff/twitter.png",
     "https://img.icons8.com/metro/308/ffffff/linkedin.png",
     "https://img.icons8.com/material-rounded/384/ffffff/github.png",
-    "https://img.icons8.com/ios-filled/500/ffffff/medium-monogram--v1.png"
+    // "https://img.icons8.com/ios-filled/500/ffffff/medium-monogram--v1.png"
   ];
 
   static const List<String> socialLinks = [
-    "https://facebook.com/mhmzdev",
-    "https://instagram.com/mhmzdev",
-    "https://twitter.com/mhmzdev",
-    "https://linkedin.com/in/mhmzdev",
-    "https://github.com/mhmzdev",
-    "https://mhmzdev.medium.com"
+    "https://www.facebook.com/share/syNubqQDBh989N7m/?mibextid=qi2Omg",
+    "https://www.instagram.com/waqasahmad3758?utm_source=qr&igsh=MWR6Ymo0djRocWx1Zg==",
+    "https://x.com/waqasah08605446?t=Byhcg5POwRxXDbqkZ4u_kg&s=09",
+    "https://www.linkedin.com/in/waqas-ahmad-76132b1b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    "https://github.com/Waqas-stack",
+    // "https://mhmzdev.medium.com"
   ];
 
   static const String resume =
-      'https://drive.google.com/file/d/1bDNNrkQtNVJbXcdwMSx0crQQvAF_nMwV/view?usp=sharing';
+      'https://drive.google.com/file/d/18CXU1eoK46t01NE6yqnsjWjBOAstlApB/view?usp=drive_link';
+  // static const String resume =
+  //     'https://drive.google.com/file/d/1bDNNrkQtNVJbXcdwMSx0crQQvAF_nMwV/view?usp=sharing';
 
-  static const String gitHub = 'https://github.com/mhmzdev';
+  static const String gitHub = 'https://github.com/Waqas-stack';
 }
 
 class BodyUtils {

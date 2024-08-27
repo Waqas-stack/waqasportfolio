@@ -1,9 +1,8 @@
 {
-    "name": "Muhammad Hamza",
-    "email": "hamza@mhmz.dev",
+    "name": "Waqas Ahmad",
+    "email": "waqas3084@gmail.com",
     "subtitles": [
         "Flutter Developer",
-        "Technical Writer",
         "UI/UX Designer"
     ],
     "blackWhitePhotoURL": "https://drive.google.com/uc?export=view&id=1np1Or8kvpEmH5ghkFN5GJGqU8VAQRUCH",
@@ -11,38 +10,37 @@
     "socialLinks": [
         {
             "platform": "facebook",
-            "url": "https://facebook.com/mhmzdev"
+            "url": "https://www.facebook.com/share/syNubqQDBh989N7m/?mibextid=qi2Omg"
         },
         {
             "platform": "instagram",
-            "url": "https://instagram.com/mhmzdev"
+            "url": "https://www.instagram.com/waqasahmad3758?utm_source=qr&igsh=MWR6Ymo0djRocWx1Zg=="
         },
         {
             "platform": "twitter",
-            "url": "https://twitter.com/mhmzdev"
+            "url": "https://x.com/waqasah08605446?t=Byhcg5POwRxXDbqkZ4u_kg&s=09"
         },
         {
             "platform": "linkedin",
-            "url": "https://linkedin.com/in/mhmzdev"
+            "url": "https://www.linkedin.com/in/waqas-ahmad-76132b1b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
         },
         {
             "platform": "github",
-            "url": "https://github.com/mhmzdev"
+            "url": "https://github.com/Waqas-stack"
         },
         {
             "platform": "medium",
             "url": "https://mhamzadev.medium.com/"
         }
     ],
-    "aboutMeHeadline": "I'm Muhammad Hamza, a Flutter developer, Technical Writer and UI/UX Designer.",
-    "aboueMeDetails": "I'm a Final Year Computer Science student enrolled in COMSATS University, Islamabad. I have been developing mobile apps for over 2 years now. I have worked in teams for various startups and helped them in launching their prototypes and got valuable learning experience. I'm a former Google DSC lead and also CEO/Co-Founder Flutter Islamabad, Pakistan.",
+    "aboutMeHeadline": "I'm Waqas Ahmad, a Flutter developer, and UI/UX Designer.",
+    "aboueMeDetails": "I'm a Flutter developer with 3 years of experience, My focus is designing and developing Flutter apps that look great and work well. I am skilled in a range of programming languages Dart, and Flutter framework. I have worked on Flutter apps for different industries such as financing, travellin, e-commerce, and education. I enjoy working with other Flutter applications and designing to make applications that match the client's brand and business objectives. I am committed to keeping up with the latest industry trends and best practices. If you are looking for a Flutter developer with skills an",
     "technologies": [
         "Flutter",
         "Dart",
-        "Python",
-        "Java",
-        "C++",
-        "Flask"
+        "Android",
+        "Ios",
+        "Kotlin"
     ],
     "services": [
         {
@@ -72,7 +70,7 @@
         }
     ],
     "hireMe": {
-        "whatsapp": "923460159889"
+        "whatsapp": "923068159907"
     },
     "projects": [
         {
@@ -145,15 +143,15 @@
     "contact": [
         {
             "param": "address",
-            "value": "Attock, Pakistan"
+            "value": "Lahore, Pakistan"
         },
         {
             "param": "phone",
-            "value": "+92 346 0159889"
+            "value": "+92 306 8159907"
         },
         {
             "param": "email",
-            "value": "hamza.6.shakeel@gmail.com"
+            "value": "waqas3084@gmail.com"
         }
     ]
 }

@@ -31,7 +31,7 @@ class SocialLinks extends StatelessWidget {
                   color: appProvider.isDark ? Colors.white : Colors.black,
                   height: Responsive.isMobile(context)
                       ? AppDimensions.normalize(10)
-                      : null,
+                      : AppDimensions.normalize(8.5),
                 ),
                 iconSize: Responsive.isMobile(context)
                     ? AppDimensions.normalize(10)
