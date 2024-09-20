@@ -5,15 +5,15 @@ class WorkUtils {
     StaticUtils.university,
     StaticUtils.fullterIsb,
     StaticUtils.dsc,
-    StaticUtils.sastaticket,
+    // StaticUtils.sastaticket,
   ];
 
   static const List<String> communityLinks = [
     "https://www.uaar.edu.pk/uiit/",
     "https://web.facebook.com/FlutterIslamabadPakistan/",
     "https://dsc.community.dev/comsats-university-islamabad/",
-    "https://sastaticket.pk/"
+    // "https://sastaticket.pk/"
   ];
 
-  static const List<double> communityLogoHeight = [60.0, 70.0, 30.0, 70.0];
+  static const List<double> communityLogoHeight = [60.0, 70.0, 30.0,];
 }

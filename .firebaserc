@@ -1,5 +1,9 @@
 {
   "projects": {
-    "default": "mhmzdev-666"
-  }
+    "default": "waqas-portfolio-4bec5",
+    "yes": "waqas-portfolio-4bec5"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }

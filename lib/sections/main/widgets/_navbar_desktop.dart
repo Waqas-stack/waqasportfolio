@@ -71,6 +71,8 @@ class _NavBarTablet extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final drawerProvider = Provider.of<DrawerProvider>(context);
+    final appProvider = Provider.of<AppProvider>(context);
+
 
     return Padding(
       padding: Space.v!,
@@ -83,8 +85,9 @@ class _NavBarTablet extends StatelessWidget {
             onPressed: () {
               drawerProvider.key.currentState!.openDrawer();
             },
-            icon: const Icon(
+            icon:  Icon(
               Icons.menu,
+              color: appProvider.isDark ? Colors.white : Colors.black,
             ),
           ),
           Space.xm!,
