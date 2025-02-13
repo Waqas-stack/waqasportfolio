@@ -6,6 +6,9 @@ import 'package:folio/utils/utils.dart';
 import 'package:folio/widget/custom_text_heading.dart';
 import 'package:folio/widget/project_card.dart';
 
+import '../seemorescreen/seemore.dart';
+import '../seemorescreen/seemoremainscreen.dart';
+
 class PortfolioDesktop extends StatefulWidget {
   const PortfolioDesktop({Key? key}) : super(key: key);
 
@@ -49,7 +52,13 @@ class _PortfolioDesktopState extends State<PortfolioDesktop> {
             height: AppDimensions.normalize(14),
             width: AppDimensions.normalize(50),
             child: OutlinedButton(
-              onPressed: () => openURL(StaticUtils.gitHub),
+              // onPressed: () => openURL(StaticUtils.gitHub),
+              onPressed: (){
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => SeeMoreMain()),
+                );
+              },
               child: Text(
                 'See More',
                 style: AppText.l1b,

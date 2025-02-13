@@ -6,6 +6,9 @@ import 'package:folio/sections/portfolio/portfolio.dart';
 import 'package:folio/sections/services/services.dart';
 import 'package:folio/widget/footer.dart';
 
+import '../sections/seemorescreen/seeMorePortfolio.dart';
+import '../sections/seemorescreen/seemore.dart';
+
 class StaticUtils {
   static const String hi = 'assets/hi.gif';
 
@@ -61,6 +64,15 @@ class BodyUtils {
     Services(),
     Portfolio(),
     Contact(),
+    Footer(),
+  ];
+}
+
+
+class BodySeeMore {
+  static const List<Widget> views = [
+    SeeMore(),
+    SeeMorePortfolio(),
     Footer(),
   ];
 }
