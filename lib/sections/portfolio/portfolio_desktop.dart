@@ -56,7 +56,7 @@ class _PortfolioDesktopState extends State<PortfolioDesktop> {
               onPressed: (){
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => SeeMoreMain()),
+                  MaterialPageRoute(builder: (context) => const SeeMoreMain()),
                 );
               },
               child: Text(

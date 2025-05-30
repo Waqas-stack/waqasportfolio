@@ -12,7 +12,7 @@ class SeeMoreBodyIs extends StatelessWidget {
     final scrollProvider = Provider.of<ScrollProvider>(context);
 
     return ListView.builder(
-      controller: scrollProvider.controller,
+      // controller: scrollProvider.controller,
       itemCount: BodySeeMore.views.length,
       itemBuilder: (context, index) => BodySeeMore.views[index],
     );
